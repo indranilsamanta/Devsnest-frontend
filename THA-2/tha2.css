@@ -1,0 +1,19 @@
+body{
+    background-color: darkgray;
+    background-position-x: center;
+
+}
+h1{
+   font-size: 30px;
+   font-variant: normal;
+   font-weight: 100; 
+}
+div{
+    margin: 20px 30px 20px;
+    padding: auto;
+}
+#dear{
+    font-variant: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200; 
+}
